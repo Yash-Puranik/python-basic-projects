@@ -1,5 +1,5 @@
 """This funtion uses .split method to convert a paragraph into a list of words and then uses for loop to iterate through the list to find the word and count its frequency."""
-
+#This project is a simple word deletion program that takes a paragraph and a word as input and deletes the word from the paragraph if it is found.
 def del_word(word_to_delete, paragraph):
     
     paragraph = paragraph.replace(word_to_delete, "")
