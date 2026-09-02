@@ -1,0 +1,1 @@
+These is a collection of basic python projects based on functions, iterations and conditionals :)
