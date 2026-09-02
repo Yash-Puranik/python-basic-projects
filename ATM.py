@@ -1,4 +1,13 @@
+
 #This is a console based ATM & Bank Account Simulator that incorporates...... many concepts :)
+
+
+#This is a console based ATM & Bank Account Simulator that incorporates...... many concepts :))
+#Hi there!
+
+def git_temp():
+    print("This is a temporary function to test git commands. Please ignore this function.")
+    
 
 def user_database(user_name, user_balance):
     return user_name, user_balance
